@@ -1,0 +1,52 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.tox/
+.coverage
+htmlcov/
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Visual Studio Code
+.vscode/
+.idea/
+
+# Variables y credenciales
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+.secrets
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Docker
+*.tar
+*.tar.gz
+
+# Archivos generados
+build/
+
+# Evidencias del laboratorio
+# No ignorar archivos registro_*.json
+
+# Plantillas de OpenFaaS
+template/

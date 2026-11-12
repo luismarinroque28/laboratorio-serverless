@@ -1,0 +1,17 @@
+{
+    "nombre": "Luis",
+    "apellido": "Roque",
+    "email": "luismarinroque28@gmail.com",
+    "token": "9140bd86-2089-4439-a891-27fb648ee076",
+    "fecha_utc": "2026-11-12T19:50:02.554144+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.18.58.1-microsoft-standard-WSL2",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "registro-serverless-5958d544d8-g9jrr",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "ee8ab0e1d6e97a47c79f1ff07954289c7a3a0699e87829f1161ac32766e5971a"
+}
